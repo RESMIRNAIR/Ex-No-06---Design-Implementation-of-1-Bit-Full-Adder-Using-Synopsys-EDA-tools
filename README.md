@@ -53,14 +53,15 @@ The aim is to design and implement a 1-bit Full Adder using Synopsys EDA tool an
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
 
-<img width="940" height="417" alt="WhatsApp Image 2026-08-17 at 13 08 55" src="https://github.com/user-attachments/assets/5bc7ad9e-f2d3-4463-945d-c05774164d8f" />
+<img width="712" height="337" alt="Screenshot 2026-11-10 155301" src="https://github.com/user-attachments/assets/3e905133-3777-445a-9e2c-e1cb69b58c72" />
+
 
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-04-11 142904](https://github.com/user-attachments/assets/dc5a3489-8b68-427e-adb9-c71cee1367a4)
-![Screenshot 2025-04-11 142843](https://github.com/user-attachments/assets/1f58672f-b0cb-4455-b436-9236da9a6af8)
-<img width="940" height="473" alt="WhatsApp Image 2026-08-17 at 13 08 56" src="https://github.com/user-attachments/assets/8352564d-d321-4c58-bdfc-33cb322d54bc" />
+<img width="931" height="467" alt="Screenshot 2026-11-10 155335" src="https://github.com/user-attachments/assets/e2d05621-8d77-4425-9354-bac9075b2d43" />
+
+<img width="959" height="452" alt="Screenshot 2026-11-10 155421" src="https://github.com/user-attachments/assets/d8535c76-6abc-496f-88bb-cc7f1c9fce7b" />
 
 
 ## Results
